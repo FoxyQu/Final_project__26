@@ -1,0 +1,11 @@
+pandas>=2.2
+numpy>=1.26
+scipy>=1.13
+matplotlib>=3.8
+seaborn>=0.13
+scikit-learn>=1.5
+requests>=2.31
+ijson>=3.2
+pymorphy3>=2.0
+pymorphy3-dicts-ru
+jupyter

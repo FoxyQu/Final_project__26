@@ -1,0 +1,7 @@
+# raw corpus data stays local: CoCo contains private group chats
+raw/
+*.sqlite
+*.db
+__pycache__/
+.ipynb_checkpoints/
+.env

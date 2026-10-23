@@ -1,0 +1,377 @@
+base,query_type,item,label,hits,texts
+автор,suffix,авторесса,-essa,95,93
+автор,suffix,авторка,-ka,5196,4689
+автор,suffix,авторша,-ša,2819,2546
+редактор,suffix,редакторка,-ka,289,268
+директор,suffix,директорка,-ka,186,177
+редактор,suffix,редакторша,-ša,358,312
+директор,suffix,директорша,-ša,852,748
+директор,suffix,директриса,-essa,8794,7371
+доктор,suffix,докторка,-ka,520,449
+доктор,suffix,докторша,-ša,1772,1461
+профессор,suffix,профессорка,-ka,175,140
+профессор,suffix,профессорша,-ša,680,601
+инженер,suffix,инженерша,-ša,90,74
+инженер,suffix,инженерка,-ka,2966,2888
+блогер,suffix,блогерка,-ka,548,502
+блогер,suffix,блогерша,-ša,7385,7082
+дизайнер,suffix,дизайнерка,-ka,155,144
+дизайнер,suffix,дизайнерша,-ša,315,305
+режиссёр,suffix,режиссёрка,-ka,865,776
+режиссёр,suffix,режиссёрша,-ša,215,186
+тренер,suffix,тренерка,-ka,203,198
+тренер,suffix,тренерша,-ša,1662,1426
+менеджер,suffix,менеджерка,-ka,117,108
+менеджер,suffix,менеджерша,-ša,66,65
+бухгалтер,suffix,бухгалтерка,-ka,29,28
+повар,suffix,поварка,-ka,114,111
+бухгалтер,suffix,бухгалтерша,-ša,1813,1634
+повар,suffix,повариха,-ixa,7866,6936
+активист,suffix,активистка,-ka,29570,26781
+журналист,suffix,журналистка,-ka,41267,35627
+юрист,suffix,юристка,-ka,1243,1123
+юрист,suffix,юристша,-ša,2,2
+стилист,suffix,стилистка,-ka,1028,961
+программист,suffix,программистка,-ka,775,729
+командир,suffix,командирка,-ka,130,128
+специалист,suffix,специалистка,-ka,1734,1648
+командир,suffix,командирша,-ša,1123,1069
+банкир,suffix,банкирша,-ša,819,573
+пассажир,suffix,пассажирка,-ka,12929,11385
+переводчик,suffix,переводчица,-ica,8394,7485
+разработчик,suffix,разработчица,-ica,200,191
+заказчик,suffix,заказчица,-ica,43069,41002
+уборщик,suffix,уборщица,-ica,63279,57352
+начальник,suffix,начальница,-ica,24414,21605
+художник,suffix,художница,-ica,134196,118490
+начальник,suffix,начальниха,-ixa,16,15
+сотрудник,suffix,сотрудница,-ica,58614,53161
+помощник,suffix,помощница,-ica,112804,108048
+водитель,suffix,водительница,-ica,1481,1379
+учитель,suffix,учительница,-ica,222707,188733
+писатель,suffix,писательница,-ica,57640,46192
+врач,suffix,врачиха,-ixa,5265,4565
+руководитель,suffix,руководительница,-ica,15262,14625
+преподаватель,suffix,преподавательница,-ica,13966,12991
+врач,suffix,врачица,-ica,135,119
+врач,suffix,врачка,-ka,21,20
+врач,suffix,врачиня,-inja,60,56
+психолог,suffix,психологиня,-inja,949,905
+психолог,suffix,психологша,-ša,43,40
+психолог,suffix,психологесса,-essa,3,3
+филолог,suffix,филологиня,-inja,477,452
+биолог,suffix,биологиня,-inja,111,100
+агент,suffix,агентка,-ka,339,334
+агент,suffix,агентша,-ša,276,241
+агент,suffix,агентесса,-essa,194,180
+президент,suffix,президентка,-ka,449,427
+консультант,suffix,консультантша,-ša,58,52
+президент,suffix,президентша,-ša,838,788
+консультант,suffix,консультантка,-ka,441,407
+адвокат,suffix,адвокатка,-ka,65,54
+адвокат,suffix,адвокатша,-ša,347,313
+адвокат,suffix,адвокатесса,-essa,415,375
+терапевт,suffix,терапевтка,-ka,119,111
+депутат,suffix,депутатка,-ka,1677,1550
+депутат,suffix,депутатша,-ša,1191,1115
+терапевт,suffix,терапевтша,-ša,26,22
+поэт,suffix,поэтка,-ka,525,468
+завхоз,suffix,завхозиха,-ixa,20,19
+поэт,suffix,поэтесса,-essa,54678,45850
+завхоз,suffix,завхозша,-ša,5,5
+завуч,suffix,завучка,-ka,65,63
+завуч,suffix,завучиха,-ixa,83,74
+автор,analytic,женщина автор,analytic,318,317
+автор,base_total,автор,masculine_base,3358076,2962353
+агент,agree_adj,агент,agreement,218,217
+автор,agree_adj,автор,agreement,6783,6743
+агент,analytic,женщина агент,analytic,35,34
+агент,base_total,агент,masculine_base,322475,267185
+адвокат,agree_adj,адвокат,agreement,194,191
+автор,agree_verb,автор,agreement,7854,7682
+адвокат,analytic,женщина адвокат,analytic,81,79
+адвокат,base_total,адвокат,masculine_base,211416,157249
+активист,agree_adj,активист,agreement,42,42
+агент,agree_verb,агент,agreement,398,381
+активист,analytic,женщина активист,analytic,4,4
+активист,base_total,активист,masculine_base,286997,232315
+банкир,agree_adj,банкир,agreement,11,11
+адвокат,agree_verb,адвокат,agreement,811,760
+банкир,analytic,женщина банкир,analytic,4,4
+банкир,base_total,банкир,masculine_base,58617,48723
+биолог,agree_adj,биолог,agreement,58,58
+активист,agree_verb,активист,agreement,62,62
+биолог,analytic,женщина биолог,analytic,23,23
+биолог,base_total,биолог,masculine_base,47345,42209
+блогер,agree_adj,блогер,agreement,320,319
+банкир,agree_verb,банкир,agreement,23,21
+блогер,analytic,женщина блогер,analytic,20,20
+блогер,base_total,блогер,masculine_base,228273,198467
+бухгалтер,agree_adj,бухгалтер,agreement,306,303
+биолог,agree_verb,биолог,agreement,177,172
+бухгалтер,analytic,женщина бухгалтер,analytic,60,59
+бухгалтер,base_total,бухгалтер,masculine_base,109235,91859
+водитель,agree_adj,водитель,agreement,1351,1342
+блогер,agree_verb,блогер,agreement,468,449
+водитель,analytic,женщина водитель,analytic,1345,1285
+водитель,base_total,водитель,masculine_base,876435,665707
+бухгалтер,agree_verb,бухгалтер,agreement,782,754
+врач,agree_adj,врач,agreement,5865,5725
+водитель,agree_verb,водитель,agreement,1811,1741
+врач,analytic,женщина врач,analytic,1338,1276
+гинеколог,agree_adj,гинеколог,agreement,226,222
+врач,base_total,врач,masculine_base,2110688,1532191
+гинеколог,analytic,женщина гинеколог,analytic,42,42
+гинеколог,base_total,гинеколог,masculine_base,48646,41766
+депутат,agree_adj,депутат,agreement,484,480
+врач,agree_verb,врач,agreement,26152,24205
+депутат,analytic,женщина депутат,analytic,142,142
+депутат,base_total,депутат,masculine_base,919592,664357
+гинеколог,agree_verb,гинеколог,agreement,1082,1053
+дизайнер,agree_adj,дизайнер,agreement,867,863
+дизайнер,analytic,женщина дизайнер,analytic,60,60
+дизайнер,base_total,дизайнер,masculine_base,419275,370241
+директор,agree_adj,директор,agreement,1620,1594
+депутат,agree_verb,депутат,agreement,1085,1040
+директор,analytic,женщина директор,analytic,236,229
+директор,base_total,директор,masculine_base,914351,734046
+доктор,agree_adj,доктор,agreement,2170,2130
+дизайнер,agree_verb,дизайнер,agreement,1454,1393
+доктор,analytic,женщина доктор,analytic,196,192
+доктор,base_total,доктор,masculine_base,794816,628709
+журналист,agree_adj,журналист,agreement,272,270
+директор,agree_verb,директор,agreement,4061,3815
+журналист,analytic,женщина журналист,analytic,77,76
+журналист,base_total,журналист,masculine_base,591914,482160
+завуч,agree_adj,завуч,agreement,288,271
+доктор,agree_verb,доктор,agreement,4964,4640
+завуч,analytic,женщина завуч,analytic,8,7
+завуч,base_total,завуч,masculine_base,21610,18592
+завхоз,agree_adj,завхоз,agreement,56,53
+завуч,agree_verb,завуч,agreement,932,876
+завхоз,analytic,женщина завхоз,analytic,8,8
+завхоз,base_total,завхоз,masculine_base,9981,8459
+заказчик,agree_adj,заказчик,agreement,148,148
+завхоз,agree_verb,завхоз,agreement,107,98
+журналист,agree_verb,журналист,agreement,899,836
+заказчик,base_total,заказчик,masculine_base,323366,278162
+заказчик,analytic,женщина заказчик,analytic,8,8
+инженер,agree_adj,инженер,agreement,113,113
+инженер,analytic,женщина инженер,analytic,62,59
+инженер,base_total,инженер,masculine_base,249563,210955
+командир,agree_adj,командир,agreement,213,197
+заказчик,agree_verb,заказчик,agreement,266,257
+командир,analytic,женщина командир,analytic,123,118
+командир,base_total,командир,masculine_base,348316,225420
+инженер,agree_verb,инженер,agreement,256,252
+консультант,agree_adj,консультант,agreement,307,304
+консультант,analytic,женщина консультант,analytic,51,47
+консультант,base_total,консультант,masculine_base,203687,174789
+менеджер,agree_adj,менеджер,agreement,578,566
+командир,agree_verb,командир,agreement,268,258
+менеджер,analytic,женщина менеджер,analytic,55,51
+менеджер,base_total,менеджер,masculine_base,404584,348064
+начальник,agree_adj,начальник,agreement,492,486
+консультант,agree_verb,консультант,agreement,1000,971
+начальник,analytic,женщина начальник,analytic,141,141
+начальник,base_total,начальник,masculine_base,597332,476098
+пассажир,agree_adj,пассажир,agreement,58,58
+менеджер,agree_verb,менеджер,agreement,1478,1410
+пассажир,analytic,женщина пассажир,analytic,140,137
+пассажир,base_total,пассажир,masculine_base,326873,256026
+переводчик,agree_adj,переводчик,agreement,121,119
+начальник,agree_verb,начальник,agreement,436,430
+переводчик,analytic,женщина переводчик,analytic,20,20
+переводчик,base_total,переводчик,masculine_base,171450,148734
+писатель,agree_adj,писатель,agreement,216,215
+пассажир,agree_verb,пассажир,agreement,269,268
+писатель,analytic,женщина писатель,analytic,80,78
+писатель,base_total,писатель,masculine_base,663300,481873
+повар,agree_adj,повар,agreement,287,287
+переводчик,agree_verb,переводчик,agreement,396,394
+повар,analytic,женщина повар,analytic,101,99
+повар,base_total,повар,masculine_base,227892,200821
+помощник,agree_adj,помощник,agreement,165,163
+писатель,agree_verb,писатель,agreement,478,461
+помощник,analytic,женщина помощник,analytic,47,47
+помощник,base_total,помощник,masculine_base,536338,490309
+поэт,agree_adj,поэт,agreement,333,330
+повар,agree_verb,повар,agreement,434,425
+поэт,analytic,женщина поэт,analytic,121,118
+поэт,base_total,поэт,masculine_base,735632,536108
+помощник,agree_verb,помощник,agreement,300,297
+президент,agree_adj,президент,agreement,708,700
+президент,analytic,женщина президент,analytic,478,465
+президент,base_total,президент,masculine_base,1669484,1236793
+преподаватель,agree_adj,преподаватель,agreement,1835,1822
+поэт,agree_verb,поэт,agreement,591,590
+преподаватель,analytic,женщина преподаватель,analytic,188,186
+преподаватель,base_total,преподаватель,masculine_base,643823,547671
+программист,agree_adj,программист,agreement,66,65
+президент,agree_verb,президент,agreement,717,703
+программист,analytic,женщина программист,analytic,83,79
+программист,base_total,программист,masculine_base,126828,109397
+профессор,agree_adj,профессор,agreement,460,451
+преподаватель,agree_verb,преподаватель,agreement,2624,2551
+профессор,analytic,женщина профессор,analytic,377,341
+программист,agree_verb,программист,agreement,97,97
+профессор,base_total,профессор,masculine_base,353865,273861
+психолог,agree_adj,психолог,agreement,1180,1170
+психолог,analytic,женщина психолог,analytic,353,345
+психолог,base_total,психолог,masculine_base,594887,474989
+разработчик,agree_adj,разработчик,agreement,35,25
+профессор,agree_verb,профессор,agreement,688,632
+разработчик,analytic,женщина разработчик,analytic,1,1
+разработчик,base_total,разработчик,masculine_base,158453,136253
+редактор,agree_adj,редактор,agreement,239,236
+психолог,agree_verb,психолог,agreement,3067,2894
+редактор,analytic,женщина редактор,analytic,39,38
+редактор,base_total,редактор,masculine_base,266313,230779
+разработчик,agree_verb,разработчик,agreement,76,76
+режиссёр,agree_adj,режиссёр,agreement,689,680
+режиссёр,analytic,женщина режиссёр,analytic,212,205
+режиссёр,base_total,режиссёр,masculine_base,659369,510332
+руководитель,agree_adj,руководитель,agreement,1402,1388
+редактор,agree_verb,редактор,agreement,683,663
+руководитель,analytic,женщина руководитель,analytic,321,307
+руководитель,base_total,руководитель,masculine_base,988096,832663
+сотрудник,agree_adj,сотрудник,agreement,161,156
+режиссёр,agree_verb,режиссёр,agreement,1091,1050
+сотрудник,analytic,женщина сотрудник,analytic,84,84
+сотрудник,base_total,сотрудник,masculine_base,1219216,962816
+специалист,agree_adj,специалист,agreement,403,401
+руководитель,agree_verb,руководитель,agreement,2085,2045
+специалист,analytic,женщина специалист,analytic,99,96
+специалист,base_total,специалист,masculine_base,1197372,1014124
+стилист,agree_adj,стилист,agreement,542,540
+сотрудник,agree_verb,сотрудник,agreement,389,383
+стилист,analytic,женщина стилист,analytic,22,22
+стилист,base_total,стилист,masculine_base,230023,207268
+стоматолог,agree_adj,стоматолог,agreement,185,183
+специалист,agree_verb,специалист,agreement,1792,1747
+стоматолог,analytic,женщина стоматолог,analytic,59,53
+стоматолог,base_total,стоматолог,masculine_base,122138,105716
+терапевт,agree_adj,терапевт,agreement,254,252
+стилист,agree_verb,стилист,agreement,657,646
+терапевт,analytic,женщина терапевт,analytic,46,44
+терапевт,base_total,терапевт,masculine_base,103506,78091
+тренер,agree_adj,тренер,agreement,2751,2713
+стоматолог,agree_verb,стоматолог,agreement,649,632
+тренер,analytic,женщина тренер,analytic,153,152
+тренер,base_total,тренер,masculine_base,1217301,963395
+уборщик,agree_adj,уборщик,agreement,7,7
+терапевт,agree_verb,терапевт,agreement,1387,1341
+уборщик,analytic,женщина уборщик,analytic,7,7
+уборщик,base_total,уборщик,masculine_base,20583,18970
+учитель,agree_adj,учитель,agreement,2026,2004
+тренер,agree_verb,тренер,agreement,3440,3313
+учитель,analytic,женщина учитель,analytic,225,222
+учитель,base_total,учитель,masculine_base,1715968,1303946
+филолог,agree_adj,филолог,agreement,115,114
+уборщик,agree_verb,уборщик,agreement,9,9
+филолог,analytic,женщина филолог,analytic,39,39
+филолог,base_total,филолог,masculine_base,56683,51778
+художник,agree_adj,художник,agreement,1153,1146
+учитель,agree_verb,учитель,agreement,3800,3605
+художник,analytic,женщина художник,analytic,153,153
+художник,base_total,художник,masculine_base,1390940,1084296
+юрист,agree_adj,юрист,agreement,377,376
+филолог,agree_verb,филолог,agreement,264,263
+юрист,analytic,женщина юрист,analytic,114,112
+юрист,base_total,юрист,masculine_base,266126,223405
+художник,agree_verb,художник,agreement,1449,1444
+юрист,agree_verb,юрист,agreement,712,701
+автор,suffix_nomsg,авторша,-ša,1585,1451
+автор,suffix_nomsg,авторка,-ka,3224,3006
+редактор,suffix_nomsg,редакторка,-ka,128,122
+автор,suffix_nomsg,авторесса,-essa,13,13
+редактор,suffix_nomsg,редакторша,-ša,170,155
+директор,suffix_nomsg,директорка,-ka,125,122
+директор,suffix_nomsg,директриса,-essa,5068,4355
+директор,suffix_nomsg,директорша,-ša,496,445
+доктор,suffix_nomsg,докторка,-ka,328,294
+доктор,suffix_nomsg,докторша,-ša,1056,907
+профессор,suffix_nomsg,профессорка,-ka,103,84
+профессор,suffix_nomsg,профессорша,-ša,394,358
+инженер,suffix_nomsg,инженерша,-ša,49,38
+инженер,suffix_nomsg,инженерка,-ka,975,960
+блогер,suffix_nomsg,блогерка,-ka,284,272
+блогер,suffix_nomsg,блогерша,-ša,5614,5452
+дизайнер,suffix_nomsg,дизайнерка,-ka,47,47
+дизайнер,suffix_nomsg,дизайнерша,-ša,156,152
+режиссёр,suffix_nomsg,режиссёрка,-ka,332,308
+режиссёр,suffix_nomsg,режиссёрша,-ša,117,105
+тренер,suffix_nomsg,тренерка,-ka,13,13
+тренер,suffix_nomsg,тренерша,-ša,880,838
+менеджер,suffix_nomsg,менеджерка,-ka,68,67
+менеджер,suffix_nomsg,менеджерша,-ša,42,41
+бухгалтер,suffix_nomsg,бухгалтерка,-ka,14,14
+бухгалтер,suffix_nomsg,бухгалтерша,-ša,863,783
+повар,suffix_nomsg,поварка,-ka,54,53
+повар,suffix_nomsg,повариха,-ixa,3600,3277
+журналист,suffix_nomsg,журналистка,-ka,19852,17764
+активист,suffix_nomsg,активистка,-ka,13923,13258
+юрист,suffix_nomsg,юристка,-ka,602,554
+юрист,suffix_nomsg,юристша,-ša,1,1
+программист,suffix_nomsg,программистка,-ka,332,325
+стилист,suffix_nomsg,стилистка,-ka,421,399
+специалист,suffix_nomsg,специалистка,-ka,835,821
+командир,suffix_nomsg,командирша,-ša,779,759
+командир,suffix_nomsg,командирка,-ka,65,65
+пассажир,suffix_nomsg,пассажирка,-ka,6319,5739
+банкир,suffix_nomsg,банкирша,-ša,558,338
+переводчик,suffix_nomsg,переводчица,-ica,4004,3678
+заказчик,suffix_nomsg,заказчица,-ica,12604,12167
+разработчик,suffix_nomsg,разработчица,-ica,64,62
+уборщик,suffix_nomsg,уборщица,-ica,24915,23356
+художник,suffix_nomsg,художница,-ica,63866,59261
+начальник,suffix_nomsg,начальница,-ica,12095,11114
+начальник,suffix_nomsg,начальниха,-ixa,16,15
+сотрудник,suffix_nomsg,сотрудница,-ica,22928,21365
+помощник,suffix_nomsg,помощница,-ica,59115,57963
+писатель,suffix_nomsg,писательница,-ica,25569,22081
+учитель,suffix_nomsg,учительница,-ica,125998,110267
+водитель,suffix_nomsg,водительница,-ica,707,671
+преподаватель,suffix_nomsg,преподавательница,-ica,7187,6803
+руководитель,suffix_nomsg,руководительница,-ica,7600,7336
+врач,suffix_nomsg,врачиха,-ixa,3384,2991
+врач,suffix_nomsg,врачица,-ica,86,75
+врач,suffix_nomsg,врачка,-ka,11,11
+врач,suffix_nomsg,врачиня,-inja,16,16
+психолог,suffix_nomsg,психологиня,-inja,585,562
+психолог,suffix_nomsg,психологесса,-essa,0,0
+психолог,suffix_nomsg,психологша,-ša,24,22
+психолог,suffix_nomsg,психологичка,-ka,107,106
+филолог,suffix_nomsg,филологиня,-inja,314,294
+филолог,suffix,филологесса,-essa,10,10
+филолог,suffix_nomsg,филологесса,-essa,8,8
+гинеколог,suffix,гинекологиня,-inja,110,101
+гинеколог,suffix_nomsg,гинекологиня,-inja,100,91
+гинеколог,suffix,гинекологша,-ša,10,8
+гинеколог,suffix_nomsg,гинекологша,-ša,7,6
+стоматолог,suffix,стоматологиня,-inja,39,38
+стоматолог,suffix_nomsg,стоматологиня,-inja,39,38
+стоматолог,suffix,стоматологша,-ša,17,17
+стоматолог,suffix_nomsg,стоматологша,-ša,9,9
+биолог,suffix_nomsg,биологиня,-inja,87,80
+агент,suffix_nomsg,агентка,-ka,158,157
+агент,suffix_nomsg,агентша,-ša,163,144
+агент,suffix_nomsg,агентесса,-essa,73,69
+президент,suffix_nomsg,президентка,-ka,194,191
+президент,suffix_nomsg,президентша,-ša,367,353
+консультант,suffix_nomsg,консультантка,-ka,129,118
+консультант,suffix_nomsg,консультантша,-ša,34,29
+адвокат,suffix_nomsg,адвокатка,-ka,36,32
+адвокат,suffix_nomsg,адвокатша,-ša,195,180
+адвокат,suffix_nomsg,адвокатесса,-essa,210,187
+депутат,suffix_nomsg,депутатка,-ka,628,600
+депутат,suffix_nomsg,депутатша,-ša,606,580
+терапевт,suffix_nomsg,терапевтка,-ka,73,71
+терапевт,suffix_nomsg,терапевтша,-ša,20,16
+поэт,suffix_nomsg,поэтесса,-essa,25973,23571
+поэт,suffix_nomsg,поэтка,-ka,235,215
+завхоз,suffix_nomsg,завхозиха,-ixa,17,17
+завхоз,suffix_nomsg,завхозша,-ša,2,2
+завуч,suffix_nomsg,завучиха,-ixa,50,45
+завуч,suffix_nomsg,завучка,-ka,34,33
+психолог,suffix,психологичка,-ka,223,214
