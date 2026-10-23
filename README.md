@@ -157,28 +157,7 @@ For a study of feminitives this means that sampling, statistics and visualisatio
 * The masculine base count includes generic and male reference, so the feminitive rate is a relative index, not a share of female reference.
 * CoCo hits were spot-checked, not validated manually one by one.
 
-## 7. Repository structure and how to reproduce
-
-```
-data/        lexicon, aggregated counts (CoCo, GICR), corpus sizes, GICR precision sample
-src/         data collection scripts
-notebooks/   feminine_reference.ipynb: all analyses and figures
-figures/     figures used in this README
-```
-
-```bash
-pip install -r requirements.txt
-# GICR (no token needed, about 1 hour because of API rate limits)
-python src/gicr_collect.py && python src/gicr_precision.py
-# CoCo (needs the private chat exports)
-python src/coco_flatten.py RAW_DIR coco.sqlite && python src/coco_search.py coco.sqlite local_hits.csv
-# analysis
-jupyter nbconvert --to notebook --execute notebooks/feminine_reference.ipynb
-```
-
-The notebook runs from the files in `data/` alone, so all results can be checked without access to CoCo.
-
-## 8. Data and privacy
+## 7. Data and privacy
 
 CoCo consists of private group chats. The repository contains **no message texts, user names or user ids** from CoCo:
 only counts per chat topic, base and form. GICR counts come from the public RNC API; no GICR texts are stored either.
