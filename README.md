@@ -75,15 +75,19 @@ All numbers below are produced by [`notebooks/feminine_reference.ipynb`](noteboo
 
 ![strategies](figures/strategies.png)
 
-| nom.sg mentions | CoCo, tokens | CoCo, % | GICR, tokens | GICR, % |
+| nom.sg mentions | CoCo, tokens | CoCo, % | GICR, tokens* | GICR, % |
 |---|---|---|---|---|
-| feminitive (*авторка*) | 378 | 84.6 | 470 127 | 78.1 |
-| agreement (*наша врач*, *врач сказала*) | 65 | 14.5 | 123 720 | 20.6 |
-| analytic (*женщина-врач*) | 4 | 0.9 | 7 999 | 1.3 |
+| feminitive (*авторка*) | 378 | 84.6 | 470 127 | 82.4 |
+| agreement (*наша врач*, *врач сказала*) | 65 | 14.5 | 98 614 | 17.3 |
+| analytic (*женщина-врач*) | 4 | 0.9 | 1 527 | 0.3 |
 
-* In both corpora a woman is named mainly with a **morphological feminitive**; analytic constructions are marginal (about 1%).
+\* GICR two-word counts are corrected for precision: 72% of sampled lines were clean for adjective agreement, 76% for verb agreement,
+and only 18% for *женщина* + base (most raw hits were lists like *«мужчина, женщина, врач…»*).
+
+* In both corpora a woman is named mainly with a **morphological feminitive**; agreement on a masculine noun accounts for about one mention in six,
+  analytic constructions are marginal.
 * Chats use feminitives slightly more and agreement slightly less than VK posts. The difference is significant only because GICR is huge
-  (χ² = 10.9, p = 0.004) and is negligible as an effect (Cramér's V = 0.004).
+  (χ² = 8.7, p = 0.013) and is negligible as an effect (Cramér's V = 0.004).
 
 ### 4.2 Feminitives: frequency and suffixes
 
