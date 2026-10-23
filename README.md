@@ -2,7 +2,7 @@
 
 **Vera Smirnova** · Final project · *Linguistic Data: Quantitative Analysis and Visualisation* · HSE University, October 2026
 
-> **In short.** Comparing 15 Telegram group chats (CoCo, 24 M words) with VK posts from the General Internet Corpus of Russian (GICR, 15.6 B words)
+> **Abstract.** Comparing 15 Telegram group chats (CoCo, 24 M words) with VK posts from the General Internet Corpus of Russian (GICR, 15.6 B words)
 > for 50 profession/role nouns, I find that (1) both corpora name women mainly with morphological feminitives, and chats differ only slightly in suffix flavour;
 > (2) the choice of a feminitive suffix is decided by the individual base and its derivational class (Cramér's V = 0.83), not by global suffix productivity;
 > (3) the two corpora agree on the dominant suffix of a base and diverge only where the norm is still unsettled (*врач, дизайнер, автор*).
